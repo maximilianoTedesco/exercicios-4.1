@@ -1,0 +1,13 @@
+body {
+    background: rgb(138, 129, 134);
+}
+
+section {
+    height: 200px;
+    border-radius: 10px;
+    margin: auto;
+    align-items: center;
+    text-align: center;
+    background-color: #fff;
+    width: 400px;
+}
